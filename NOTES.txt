@@ -1,0 +1,7 @@
+Notes- 
+
+
+
+
+Need to add LDA topics as 23 Columns...
+AUC was higher (.78 as opposed to .73) on the train than the test... Look into this later
